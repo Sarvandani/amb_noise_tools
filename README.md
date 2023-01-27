@@ -1,4 +1,8 @@
 # AMBIENT NOISE PROCESSING TOOLS
+Sarvandani: I used this processing tool for cross-correlation and phase velocity determination of ambient noise data in marine explorations. The work was part of my PhD thesis in collaboration with one of the code's developers, Emanuel Kaestle (UPMC Paris, FU Berlin). Our findings can be found in the following article:
+MM Sarvandani, E Kästle, L Boschi, S Leroy, M Cannat, Seismic Ambient Noise Imaging of a Quasi-Amagmatic Ultra-Slow Spreading Ridge, Remote Sensing 13 (14), 2811
+
+The information of this proceesing tools are as follows:
 February 2022
 This a set of Python functions that can be used to calculate ambient noise cross correlations and to extract phase velocities. Initial Fortran scripts developed by Kees Weemstra (Delft) and modified and extended by Emanuel Kaestle (UPMC Paris, FU Berlin).
 Please contact Emanuel Kaestle if you have any questions.
